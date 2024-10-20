@@ -17,7 +17,7 @@ public class CurrencyConverter {
         System.out.println("4: Soles Peruanos a Dólar");
         System.out.println("5: Dólar a Pesos Argentinos");
         System.out.println("6: Pesos Argentinos a Dólar");
-        System.out.println("7: Dólar a Reales Brasileños");
+        System.out.println("7: Dólar a Reale2s Brasileños");
         System.out.println("8: Reales Brasileños a Dólar");
         System.out.println("9: Dólar a Euros");
         System.out.println("10: Euros a Dólar");
